@@ -1,1 +1,2 @@
  Sapna .How are you doing ?
+ Appending this line to execute pull -merge command - Remote repo
