@@ -3,3 +3,4 @@
   Appending third line to execute pull- merge command - Local repo
   Appending this line to execute pull -merge command - Remote repo
   Appending second line to execute pull -merge command - Remote repo
+  Appending fifth line to execute fetch - merge command -Local repo
